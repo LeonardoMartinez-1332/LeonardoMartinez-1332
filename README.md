@@ -1,53 +1,57 @@
-<h1 align="center">⚡ Leonardo Martínez ⚡</h1>
+<h1 align="center">Leonardo Martínez</h1>
 <p align="center">
-  <b>Developer | Cybersecurity Enthusiast | IoT & Mobile Apps</b>
+  Backend Developer | Laravel | REST APIs | Docker | MySQL
 </p>
-
-       ________  ____  ____  ________ 
-      /  ___/  \/   / /   / /  ___/  \
-      \___  \|   / /   /  \___  \|   /
-     /____  >\_/  \_/  / /____  >\_/ 
-          \/            \/      \/    
 
 ---
 
-## 👾 Sobre mí
-- 💻 Apasionado por la **programación** y la **ciberseguridad**.  
-- 🚀 Desarrollo proyectos en **ASP.NET Core**, **Xamarin** y **IoT con ESP32**.  
-- 🔐 Interesado en la parte de **pentesting y seguridad ofensiva**.  
-- ☕ "Convirtiendo cafeína en código desde siempre."
+## 👨‍💻 Sobre mí
+
+Ingeniero en Sistemas Computacionales enfocado en desarrollo backend.
+He trabajado en la construcción de sistemas administrativos utilizando Laravel, arquitectura MVC y APIs REST.
+
+Me especializo en estructurar proyectos backend con buenas prácticas, control de versiones con Git y despliegue en entornos productivos.
+
+Actualmente estoy desarrollando un SaaS orientado a gestión de servicios, enfocado en arquitectura modular y escalabilidad.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-- **Lenguajes:** `C#` | `Python` | `JavaScript` | `HTML/CSS`  
-- **Frameworks:** `.NET` | `Xamarin` | `Bootstrap`  
-- **Bases de datos:** `SQL Server` | `MySQL`  
-- **Herramientas:** `Git` | `GitHub` | `Postman` | `Visual Studio`  
+
+- **Backend:** Laravel | PHP | Python (FastAPI)
+- **Arquitectura:** MVC | REST APIs
+- **Bases de Datos:** MySQL | PostgreSQL
+- **DevOps:** Docker | Git | GitHub
+- **Frontend:** Flutter (Apps Android & Windows)
 
 ---
 
-## 📂 Proyectos destacados
-🔹 [**ConexionSQLApi**](https://github.com/LeonardoMartinez-1332/ConexionSQLApi)  
-API REST en ASP.NET Core para conexión a SQL Server desde app Xamarin.  
+## 🚀 Proyectos Destacados
 
-🔹 [**Simulacion-Phishing**](https://github.com/LeonardoMartinez-1332/simulacion-phishing)  
-Práctica educativa de simulación de phishing.  
+### 🔹 ERP Carvajal Empaques
+Sistema de gestión de inventarios desarrollado durante mi estadía profesional.
 
----
-
-## 📊 Stats de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinez-1332&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMartinez-1332&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+- Backend en Laravel
+- Implementación de arquitectura MVC
+- Desarrollo de APIs REST
+- Middleware para control de roles
+- Base de datos MySQL
+- App multiplataforma en Flutter
+- Despliegue en producción para presentación profesional
 
 ---
 
-## 🌐 Conéctate conmigo
-<p align="center">
-  <a href="https://github.com/LeonardoMartinez-1332">
-    <img src="https://img.shields.io/badge/GitHub-LeonardoMartinez--1332-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
+### 🔹 BeautyBarber API (En desarrollo)
+Backend SaaS para gestión de servicios de barbería.
+
+- FastAPI + PostgreSQL
+- Docker & Docker Compose
+- Arquitectura modular
+- Sistema de disponibilidad por slots
+- Diseño orientado a escalabilidad
+
+---
+
+## 📫 Contacto
+
+GitHub: https://github.com/LeonardoMartinez-1332
